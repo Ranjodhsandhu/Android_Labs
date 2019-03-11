@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Adapters</string>
+    <string name="list">List</string>
+    <string name="create">Create</string>
+    <string name="instructions">Please enter your <b>NAME</b> in below field</string>
+    <string name="name">Enter name</string>
+    <string name="detailTextView">Student Name</string>
+    <string name="detailButton1">See List</string>
+    <string name="detailButton2">Add New</string>
+    <string name="detailButton3">Edit</string>
+    <string name="radioButton1">Semester 1</string>
+    <string name="radioButton2">Semester 2</string>
+    <string name="radioButton3">Semester 3</string>
+    <string name="radioButton4">Semester 4</string>
+    <string name="back">Back</string>
+    <string name="update">Update</string>
+</resources>
